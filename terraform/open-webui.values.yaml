@@ -1,0 +1,3 @@
+webui:
+  ingress:
+    enabled: true
